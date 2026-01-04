@@ -72,7 +72,7 @@ Want to get this project running on your local machine? Follow these simple step
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/Kajal-Tiwari-22/ai-native-portfolio.git
+    git clone https://github.com/Kajal-Tiwari-22/ai-portfolio.git
     cd ai-native-portfolio
     ```
 
