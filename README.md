@@ -2,7 +2,7 @@
 
   <br />
   <p>
-    <a href="https://github.com/Kajal-Tiwari-22/ai-native-portfolio"><img src="assets/readme-photo.png" alt="AI Portfolio Banner" width="100%"/></a>
+    <a href="https://github.com/Kajal-Tiwari-22/ai-portfolio"></a>
   </p>
   <br />
 
@@ -14,14 +14,14 @@
 ### **Badges**
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/Kajal-Tiwari-22/ai-native-portfolio?style=for-the-badge" alt="Repo Size">
-  <img src="https://img.shields.io/github/license/Kajal-Tiwari-22/ai-native-portfolio?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/repo-size/Kajal-Tiwari-22/AI-native-portfolio?style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/license/Kajal-Tiwari-22/AI-native-portfolio?style=for-the-badge" alt="License">
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment"></a>
   <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"></a>
   <a href="https://mistral.ai/"><img src="https://img.shields.io/badge/Mistral-FF7E00?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral API"></a>
-  <a href="https://github.com/Kajal-Tiwari-22/ai-native-portfolio/stargazers"><img src="https://img.shields.io/github/stars/Kajal-Tiwari-22/ai-native-portfolio?style=for-the-badge&color=ffd700" alt="Repo Stars"></a>
-  <a href="https://github.com/Kajal-Tiwari-22/ai-native-portfolio/graphs/contributors"><img src="https://img.shields.io/github/contributors/Kajal-Tiwari-22/ai-native-portfolio?style=for-the-badge&color=ff69b4" alt="Contributors"></a>
+  <a href="https://github.com/Kajal-Tiwari-22/AI-native-portfolio/stargazers"><img src="https://img.shields.io/github/stars/Kajal-Tiwari-22/AI-native-portfolio?style=for-the-badge&color=ffd700" alt="Repo Stars"></a>
+  <a href="https://github.com/Kajal-Tiwari-22/AI-native-portfolio/graphs/contributors"><img src="https://img.shields.io/github/contributors/Kajal-Tiwari-22/ai-portfolio?style=for-the-badge&color=ff69b4" alt="Contributors"></a>
 </p>
 
 ---
